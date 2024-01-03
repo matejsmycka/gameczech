@@ -16,20 +16,6 @@
       <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal&#xA;configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar&#xA;with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Galerie</title>
-      <link>/gallery/</link>
-      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>/gallery/</guid>
-      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.&#xA;About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
-    </item>
-    <item>
-      <title>Kontakt</title>
-      <link>/contact/</link>
-      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
-      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.&#xA;About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
-    </item>
-    <item>
       <title>O nás</title>
       <link>/about/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
@@ -37,11 +23,11 @@
       <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.&#xA;About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
     </item>
     <item>
-      <title>Subscribe</title>
-      <link>/sub/</link>
+      <title>O projektu</title>
+      <link>/about_project/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>/sub/</guid>
-      <description></description>
+      <guid>/about_project/</guid>
+      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.&#xA;About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
     </item>
     <item>
       <title>Basic HTML Elements</title>
@@ -65,11 +51,25 @@
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
     <item>
-      <title>Forum</title>
-      <link>/forum/</link>
+      <title>Kontakt</title>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/forum/</guid>
-      <description>This page is currently under maintanance.&#xA;You can join our discord at:</description>
+      <guid>/contact/</guid>
+      <description>Jak vás mohu kontaktovat? Podněty či dotazy týkající se služeb můžete směrovat na náš kontaktní email info@gameczech.xyz.&#xA;Na vaše dotazy odpovíme obvykle do 3 pracovních dnů.&#xA;Dovolujeme si vás upozornit, že váše zpráva bude zpracována a uchována po dobu nezbytnou k vyřešení vašeho požadavku a dále po dobu nezbytnou pro ochranu našich právních nároků.</description>
+    </item>
+    <item>
+      <title>Merch</title>
+      <link>/merch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/merch/</guid>
+      <description>Již brzy&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Podpořte nás</title>
+      <link>/sub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sub/</guid>
+      <description>Jsme tým nadšenců, kteří vám přinášejí nejnovější recenze, zprávy a průvodce z gaming industry. Naše práce je poháněna vášní a závazkem poskytovat nejlepší obsah.&#xA;Vaše příspěvky pomáhají udržet GameCzech živý a rozvíjející se. Každý příspěvek, ať už malý nebo velký, dělá rozdíl. Můžete přispět jednorázově nebo se stát pravidelným přispěvatelem. Zde jsou možnosti, jak nás můžete podpořit:&#xA;Přes web Buy Me a Coffee:&#xA;Buy Me a Coffee - GameCzech&#xA;Nebo platbou na účet:</description>
     </item>
   </channel>
 </rss>
