@@ -1,41 +1,27 @@
 ---
 title: O projektu
-date: 2022-01-25T14:00:00.000Z
 authorbox: false
 sidebar: false
 menu: main
 ---
 
-Our website builds with [Hugo](https://gohugo.io/) static site generator and
-[Mainroad](https://github.com/vimux/mainroad) theme. This demo allows you to see what Mainroad based website looks like
-before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the
-combination of Hugo and Mainroad can do.
+Vítejte na **GameCzech** (čtěte "gejmček"), jsme team počítačových nadšenců, nerdů a především hráčů.
+Naše stránka je místem, kde se naše zapálení pro hry stává slovy.
 
-## About Mainroad
+## Kdo jsme
 
-Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.
+Jsme tým lidí, kteří sdílejí společnou lásku k videohrám. Píšeme o hrách a herním světě čistě pro zábavu. Naše recenze, průvodce a články jsou odrazem naší upřímné zkušenosti a hlubokého zájmu o herní kulturu.
 
-Main features:
+## Naše filozofie
 
-- Responsive design
-- Main & secondary menus
-- Widgetized sidebar
-- Translations. Over 15 languages and counting
-- Configurable theme settings (sidebar position, author box, post navigation, highlight color) via config.toml
-- Hugo internal templates (Open Graph, Schema, Twitter Cards, Disqus, Google Analytics)
-- Wide cross-browser compatibility
-  - Desktop: IE11+, Chrome, Firefox, Safari
-  - Mobile: Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini
-- Custom Google Fonts support, MathJax, Table of Contents, SVG icons and much more…
+Inspirujeme se filozofií **GNU** – svobodou, otevřeností a sdílením. Věříme v přístupnost a transparentnost,**proto na našem webu nenajdete reklamy, ani nesbíráme cookies.** Naše priority jsou jasné – kvalita a integrita obsahu, který poskytujeme.
 
-Learn more on [GitHub](https://github.com/vimux/mainroad). Mainroad theme is released under the
-[GPLv2 license](https://github.com/vimux/mainroad/blob/master/LICENSE.md).
+## Co nabízíme
 
-## About Hugo
+Na **GameCzech** poskytujeme kvalitní obsah zdarma. Nabízíme hluboke eseje, upřímné recenze a podrobné průvodce, kteří vám pomohou lépe porozumět světu her. Naše články jsou pro vás, naše čtenáře, napsány s láskou a péčí.
 
-Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and
-configurability. Hugo takes a directory with content and templates and renders them into a full HTML website. With its
-amazing speed and flexibility, Hugo makes building websites fun again.
+## Podpořte nás
 
-Learn more on [GitHub](https://github.com/gohugoio/hugo). Complete documentation is available at
-[Hugo Documentation](https://gohugo.io/getting-started/).
+I když je náš obsah poskytován zdarma, vaše podpora je pro nás neocenitelná. Pomáhá nám udržovat kvalitu a nezávislost našeho psaní. Pokud chcete přispět k našemu úsilí a podpořit nás, navštivte prosím stránku "Podpořte nás".
+
+Děkujeme vám za vaši podporu a důvěru v GameCzech. Společně můžeme pokračovat v šíření naší vášně pro hry.
