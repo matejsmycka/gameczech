@@ -7,6 +7,7 @@ demosite = "https://mainroad-demo.netlify.app/"
 tags = ["blog", "responsive", "light", "multilingual", "customizable", "widgets", "wordpress"]
 features = ["blog", "responsive", "multilingual", "widgets", "rss", "disqus", "google analytics", "wordpress"]
 min_version = "0.48"
+languageCode = "cs-CZ"
 
 [author]
   name = "Vimux"

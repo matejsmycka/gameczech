@@ -1,7 +1,8 @@
 baseurl = "/"
 title = "GameCzech"
-languageCode = "cs-us"
+languageCode = "cs-CZ"
 paginate = "6" # Number of posts per page
+defaultContentLanguage = "cs"
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-KFGBMW7VEL" # Enable Google Analytics by entering your tracking id
@@ -14,6 +15,7 @@ googleAnalytics = "G-KFGBMW7VEL" # Enable Google Analytics by entering your trac
 [Params]
   description = "GameCzech, your favorite game review powerhouse" # Description of your site
   opengraph = true
+  schema = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = true
@@ -33,3 +35,6 @@ googleAnalytics = "G-KFGBMW7VEL" # Enable Google Analytics by entering your trac
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  email = "info@gameczech.xyz"
