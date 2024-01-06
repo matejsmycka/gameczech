@@ -1,15 +1,15 @@
 baseurl = "/"
 title = "GameCzech"
-languageCode = "en-us"
+languageCode = "cs-us"
 paginate = "6" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-KFGBMW7VEL" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "Matěj Smyčka"
+  bio = "Jsem velký herní nerd, nadšenec do technologií a programování. Aktuálně studuji fakultu informatiky v Brně."
+  avatar = "https://media.licdn.com/dms/image/D4E03AQEugHsl3Pee-g/profile-displayphoto-shrink_200_200/0/1677269055485?e=1709769600&v=beta&t=K1ql1BzCwSilaTtLU1rLDgn8inyWkf5TivzmRcReNok"
 
 [Params]
   description = "GameCzech, your favorite game review powerhouse" # Description of your site
